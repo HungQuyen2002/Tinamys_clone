@@ -1,0 +1,27 @@
+.navbar-about {
+    position: sticky;
+    top: 0;
+    left: 0;
+    height: 64px;
+    z-index: 999;
+    background-color: #fff;
+    box-shadow: 2px 2px 5px 0 #f0f1f2;
+    padding: 5px 10px ;
+}
+
+.imgLogo{
+    display: block;
+    vertical-align: middle;
+    width: 80px;
+    height: 40px;
+    fill: none;
+}
+
+.text-contact {
+    color: #191d27;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+}
+
